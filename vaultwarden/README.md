@@ -59,3 +59,5 @@ Si deseas usarlo en producción:
 Cada entorno de producción puede variar, así que no se incluye una configuración fija de proxy.
 
 ---
+![imagen](https://github.com/user-attachments/assets/8e8cea12-2b5d-4b05-8a63-35b31a23957f)
+
